@@ -1,12 +1,11 @@
 {
-    "title": "DVRST - My Toy",
-    "artist": "DVRST",
-    "track": "My Toy",
-    "video_id": "_f0ZY8SWDGk",
-    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi5EREU0QjZERDMzRDBGNTMz",
-    "yt_url": "https://www.youtube.com/watch?v=_f0ZY8SWDGk",
+    "title": "DEDLINE - Freaks!",
+    "artist": "DEDLINE",
+    "track": "Freaks!",
+    "video_id": "rhS33toEh2E",
+    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi41RjU0OTVCQThDNUUwQzBD",
+    "yt_url": "https://www.youtube.com/watch?v=rhS33toEh2E",
     "prefetch_urls": [
-        "https://www.youtube.com/watch?v=rhS33toEh2E"
-    ],
-    "cloud_file_name": "My Toy.webm"
+        "https://www.youtube.com/watch?v=FCvwZp6bmVg"
+    ]
 }
