@@ -1,12 +1,11 @@
 {
-    "title": "Kordhell - Live Another Day",
-    "artist": "Kordhell",
-    "track": "Live Another Day",
-    "video_id": "j9SOauBSt9Q",
-    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi43OEQ1OTk4ODU2N0E5RUYz",
-    "yt_url": "https://www.youtube.com/watch?v=j9SOauBSt9Q",
+    "title": "Yvetzal - Exodus",
+    "artist": "Yvetzal",
+    "track": "Exodus",
+    "video_id": "wSS9_peuhyg",
+    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi40QkU3RjBCMjgzQUIzNjg2",
+    "yt_url": "https://www.youtube.com/watch?v=wSS9_peuhyg",
     "prefetch_urls": [
-        "https://www.youtube.com/watch?v=wSS9_peuhyg"
-    ],
-    "cloud_file_name": "Live Another Day.webm"
+        "https://www.youtube.com/watch?v=1o3oHXOip04"
+    ]
 }
