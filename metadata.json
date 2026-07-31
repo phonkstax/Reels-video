@@ -7,5 +7,6 @@
     "yt_url": "https://www.youtube.com/watch?v=FVqgLn01ghg",
     "prefetch_urls": [
         "https://www.youtube.com/watch?v=5DLReZ3D4ew"
-    ]
+    ],
+    "cloud_file_name": "corrupted.webm"
 }
