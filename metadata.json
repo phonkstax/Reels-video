@@ -1,12 +1,11 @@
 {
-    "title": "vstromane - corrupted",
-    "artist": "vstromane",
-    "track": "corrupted",
-    "video_id": "FVqgLn01ghg",
-    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi4zQzRFNTU5MDI0RUU0N0E0",
-    "yt_url": "https://www.youtube.com/watch?v=FVqgLn01ghg",
+    "title": "ditro - House",
+    "artist": "ditro",
+    "track": "House",
+    "video_id": "5DLReZ3D4ew",
+    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi5FQTk3MjE5N0NBMTU2NjMz",
+    "yt_url": "https://www.youtube.com/watch?v=5DLReZ3D4ew",
     "prefetch_urls": [
-        "https://www.youtube.com/watch?v=5DLReZ3D4ew"
-    ],
-    "cloud_file_name": "corrupted.webm"
+        "https://www.youtube.com/watch?v=2urujMNMy8Q"
+    ]
 }
