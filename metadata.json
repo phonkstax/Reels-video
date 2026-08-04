@@ -1,12 +1,11 @@
 {
-    "title": "XZARKHAN - FTS",
-    "artist": "XZARKHAN",
-    "track": "FTS",
-    "video_id": "l0l4nMK-nyU",
-    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi5FN0IyODJCNzIzRTRCQzVB",
-    "yt_url": "https://www.youtube.com/watch?v=l0l4nMK-nyU",
+    "title": "MUPP - medusa!",
+    "artist": "MUPP",
+    "track": "medusa!",
+    "video_id": "X7ldl63ghHU",
+    "playlist_item_id": "UEw4V0dZdDJmaGVuRENNcGR5S1ZsR1dEMVY4ZUZVT2xDVi4xM0Y3OTRDQTIwMDREQ0FB",
+    "yt_url": "https://www.youtube.com/watch?v=X7ldl63ghHU",
     "prefetch_urls": [
-        "https://www.youtube.com/watch?v=X7ldl63ghHU"
-    ],
-    "cloud_file_name": "FTS.webm"
+        "https://www.youtube.com/watch?v=J9X_KDNNqMs"
+    ]
 }
